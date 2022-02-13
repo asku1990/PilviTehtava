@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PilviTehtava/static/css/main.f308809a.css",
+    "main.js": "/PilviTehtava/static/js/main.37eb054a.js",
+    "static/js/787.3a244d7b.chunk.js": "/PilviTehtava/static/js/787.3a244d7b.chunk.js",
+    "index.html": "/PilviTehtava/index.html",
+    "main.f308809a.css.map": "/PilviTehtava/static/css/main.f308809a.css.map",
+    "main.37eb054a.js.map": "/PilviTehtava/static/js/main.37eb054a.js.map",
+    "787.3a244d7b.chunk.js.map": "/PilviTehtava/static/js/787.3a244d7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f308809a.css",
+    "static/js/main.37eb054a.js"
+  ]
+}
